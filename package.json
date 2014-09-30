@@ -1,0 +1,29 @@
+{
+  "name": "ckstyle-serve",
+  "description": "Serve package for CKService, in CKStyle",
+  "version": "0.1.0",
+  "author": "wangjeaf <wangjeaf@gmail.com>",
+  "homepage": "http://ckstyle.github.io",
+  "contributors": [
+  ],
+  "dependencies": {
+    "express": "~3.3.5",
+    "request": "^2.40.0"
+  },
+  "keywords": [
+    "plugin",
+    "ckstyle",
+    "serve"
+  ],
+  "repository": "git://github.com/ckstyle/ckstyle-serve",
+  "main": "./index.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/ckstyle/ckstyle-serve/blob/master/LICENSE.md"
+    }
+  ]
+}
